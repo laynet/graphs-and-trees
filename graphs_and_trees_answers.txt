@@ -193,4 +193,6 @@ BST.insert(7);
 BST.insert(4);
 
 var root = BST.getRootNode();
-BST.findDistanceBetweenTwoNodes(root, 8, 10); 
+BST.findDistanceBetweenTwoNodes(root, 4, 10); 
+BST.findDistanceBetweenTwoNodes(root, 8, 10);
+BST.findDistanceBetweenTwoNodes(root, 1, 14)
